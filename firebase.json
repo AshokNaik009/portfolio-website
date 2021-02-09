@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "a_shokn",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
