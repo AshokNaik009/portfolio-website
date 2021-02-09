@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "ashoknaik09"
+    "default": "ashoknaik09",
+    "staging": "ashoknaik-09"
   }
 }
